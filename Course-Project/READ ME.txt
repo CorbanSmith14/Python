@@ -1,0 +1,11 @@
+To start game, run main and close out of the rules game will start, and then press space to play.
+
+I was unable to fully complete my game as I would have liked, I had problems with my score tracking, and I wanted to increase the score by every enemy troop destroyed.
+Because I was unable to get the score, I did not display the correct score.
+
+For my character image, I was unable to find one that would not display the full background of the picture, even with a transparent .png
+
+Game does run and plays but is not my desired product.
+
+-Thanks
+
