@@ -1,0 +1,11 @@
+int i = 0, s = 0;
+s = s + i;
+i = i + 2;
+s = s + i;
+i = i + 2;
+s = s + i;
+i = i + 2;
+s = s + i;
+i = i + 2;
+s = s + i;
+i = i + 2;
